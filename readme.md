@@ -1,6 +1,8 @@
 Acho que eu só consigo criar uma nova branch se tiver um arquivo nessa branch aqui. Sem arquivo não dá certo... Acho 
 
+Isso mesmo
 
+Se na branch main não houver qualquer arquivo, ao abrir uma issue a opção de criar uma branch a partir dela não é habilitada 😄
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam blandit eros sollicitudin massa tempor, sed lobortis libero ullamcorper. Nulla mollis faucibus metus in bibendum. Etiam erat urna, porta ut nunc vel, tempor pulvinar mi. Proin nisl mi, efficitur a consectetur ut, pretium ac mauris. Donec iaculis ante sed sem aliquet bibendum. Nulla volutpat velit ac tempor aliquam. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tristique tellus eget pretium interdum. Aliquam quis augue semper, finibus urna at, sollicitudin quam. Vivamus sed urna luctus, imperdiet dui id, mollis odio.
 
